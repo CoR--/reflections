@@ -1,0 +1,8 @@
+ovde sam pisao git pitanja i odgovore
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+
+git napravi .git folder
+da git shvati da ocu da pratim ovaj folder
