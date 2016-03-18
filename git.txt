@@ -6,3 +6,27 @@ What happens when you initialize a repository? Why do you need to do it?
 
 git napravi .git folder
 da git shvati da ocu da pratim ovaj folder
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+work dir is current dir, latest changes.
+staging, skuplja sve izmene.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
